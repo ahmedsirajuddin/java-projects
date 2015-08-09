@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class MergeSort {
-    public static void main (String[] args) { // main method must be given an array of strings called args
+    public static void main (String[] args) {
         int[] hand = new int[] {1, 5, 2, 7, 3, -10, -10, 9, 8};
         sort(hand);
     }
